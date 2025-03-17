@@ -4,7 +4,7 @@ Alex Haring
 
 March 17th, 2025
 
-Github Pages URL: https://github.com/Alex-Haring/ist256-Product_Order.git
+Github Pages URL: https://alex-haring.github.io/ist256-Product_Order/
 
 Screenshot:
 ![Product_Order.png](Product_Order.png)
